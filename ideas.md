@@ -1,0 +1,3 @@
+# O'Hara
+
+O'Hara is a minimal personal agent centered on model intelligence that synthesizes the big picture, assesses risk boundaries, filters external knowledge, and enables effective action. Built on Pi Agent, it uses CLI-based tools to access information and makes everything CLI-accessible; recursively expands context using an RLM approach; caches context-search trees, questions, and results for RAG-based retrieval and reuse; uses external search to uncover users’ blind spots—“you don't know what you don't know”—and support decision-making; preserves trajectories safely and naturally in the environment over the long term; and follows a minimalist, agent-friendly philosophy in its presentation, user interface, and interaction design.
